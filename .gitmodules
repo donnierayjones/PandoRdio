@@ -1,9 +1,6 @@
 [submodule "pandordio-chrome"]
   path = pandordio-chrome
   url = git@github.com:donnierayjones/pandordio-chrome.git
-[submodule "pandordio-node"]
-  path = pandordio-node
-  url = git@github.com:donnierayjones/pandordio-node.git
 [submodule "rdio-api"]
   path = rdio-api
   url = git@github.com:donnierayjones/rdio-api.git
